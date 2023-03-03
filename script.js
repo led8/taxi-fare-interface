@@ -1,4 +1,4 @@
-let taxiFareApiUrl = 'http://localhost:8001/predict';
+let taxiFareApiUrl = 'https://taxifare.lewagon.ai/predict';
 const centralCoordinates = [-74.00597, 40.71427];
 
 if (window.location.href.includes('https://taxifare.lewagon.com')) {
